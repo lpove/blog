@@ -1,4 +1,4 @@
-## ✨ Blog
+## Blog
 
 ![Dependencies](https://img.shields.io/david/ant-design/ant-design.svg)
 
@@ -21,7 +21,7 @@
 -   [Deep_in_TypeScript-1](https://github.com/lpove/blog/blob/master/2018/11-Deep_in_TypeScript-1.md)
 -   [Css_design_semitransparent_border](https://github.com/lpove/blog/blob/master/2018/11-Css_design_semitransparent_border.md)
 
-### 🔗 面试
+### ✨ 面试
 
 -   [菜鸟帝都面试记-1(2018/3)](https://github.com/lpove/blog/blob/master/2018/%40interview-1.md)
 -   [菜鸟帝都面试记-2(2018/3)](https://github.com/lpove/blog/blob/master/2018/%40interview-2.md)
@@ -30,3 +30,10 @@
 ### 🖥 一些好玩的文章在 share Cool
 
 -   [shareCool](https://github.com/lpove/blog/tree/master/shareCool)
+
+| 语言和技术 | 学习路径                                                                               |
+| ---------- | -------------------------------------------------------------------------------------- |
+| TypeScript | [学习路径](https://github.com/lpove/blog/blob/master/2018/12-TypeScript_Learn_Path.md) |
+| JavaScript | [暂无]()                                                                               |
+
+**[⬆ 返回顶部](##Blog)**
