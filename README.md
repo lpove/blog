@@ -1,12 +1,14 @@
-## blog
+## Blog
+
+-   [掘金同步更新](https://juejin.im/user/5861d87961ff4b00582876cd)
 
 ### 2018 blog
 
-#### DEC
+#### DEC（12 月）
 
 -   [Deep_in_react_HOC](https://github.com/lpove/blog/blob/master/2018/12-Deep_in_react_HOC.md)
 
-#### NOV
+#### NOV（11 月）
 
 -   [TypeScript_in_React](https://github.com/lpove/blog/blob/master/2018/11-TypeScript_in_React.md)
 -   [Head_in_TypeScript(progressBar_components)](<https://github.com/lpove/blog/blob/master/2018/11-Head_in_TypeScript(progressBar_components).md>)
