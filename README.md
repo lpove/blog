@@ -9,6 +9,7 @@
 #### 🔗 DEC（12 月）
 
 -   [Deep_in_react_HOC](https://github.com/lpove/blog/blob/master/2018/12-Deep_in_react_HOC.md)
+-   [TypeScript_Learn_Path](https://github.com/lpove/blog/blob/master/2018/12-TypeScript_Learn_Path.md)
 
 #### 🔗 NOV（11 月）
 
