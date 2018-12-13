@@ -1,10 +1,10 @@
 ## ✨ Blog
 
-![Dependencies](https://img.shields.io/david/ant-design/ant-design.svg)🇨🇳
+![Dependencies](https://img.shields.io/david/ant-design/ant-design.svg)
 
--   [掘金同步更新](https://juejin.im/user/5861d87961ff4b00582876cd)
+-   [掘金同步更新](https://juejin.im/user/5861d87961ff4b00582876cd)(🇨🇳)
 
-### 🔨 2018 blog
+### 🔨 2018 blog(🇺🇸)
 
 #### DEC（12 月）
 
