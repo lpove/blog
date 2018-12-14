@@ -2,7 +2,7 @@
 
 ![Dependencies](https://img.shields.io/david/ant-design/ant-design.svg)
 
--   [掘金同步更新，欢迎来掘金看更多文章](https://juejin.im/user/5861d87961ff4b00582876cd)(🇨🇳)
+-   [掘金同步更新，欢迎来掘金看更多文章](https://juejin.im/user/5861d87961ff4b00582876cd/posts)(🇨🇳)
 
 ### 🔨 2018 blog(🇺🇸)
 
