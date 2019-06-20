@@ -79,6 +79,7 @@
 | React        | [官网](https://reactjs.org/) / [中文论坛](http://react-china.org/) / [阮一峰老师入门教程](http://www.ruanyifeng.com/blog/2015/03/react.html)                         |
 | Node         | [node 学习路径](https://github.com/chyingp/nodejs-learning-guide)                                                                                                    |
 | 视频学习资料 | [表严肃 前端](http://biaoyansu.com/)/[前端 技术胖](http://jspang.com/post/typescript.html#toc-408)                                                                   |
+| react-router-dom | [react-router-dom 文档](https://reacttraining.com/react-router/web/api/Redirect/to-string/)/ --     |
 
 > 感谢你的观看 🌺
 
