@@ -81,6 +81,8 @@
 | 视频学习资料 | [表严肃 前端](http://biaoyansu.com/)/[前端 技术胖](http://jspang.com/post/typescript.html#toc-408)                                                                   |
 | react-router-dom | [react-router-dom 文档](https://reacttraining.com/react-router/web/api/Redirect/to-string/)    |
 
+| react-hooks | [react-awesome](https://github.com/rehooks/awesome-react-hooks/)    |
+
 > 感谢你的观看 🌺
 
 **[⬆ 返回顶部](#Blog)**
