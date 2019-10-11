@@ -6,6 +6,8 @@
 
 ### 🔨 2019 blog(🇺🇸)
 
+[Typescript](#Typescript)
+
 ## React
 
 ### react 基础
